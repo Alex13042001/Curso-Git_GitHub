@@ -5,3 +5,4 @@ mi nombre es Alejandro
 la fecha es 2024
 modificamos usuario y contraseña
 Comenzando con Git
+git show agregado
