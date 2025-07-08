@@ -8,3 +8,4 @@ Comenzando con Git
 git show agregado
 Rama Principal
 Rama appBar
+Color fondo
