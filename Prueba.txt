@@ -7,4 +7,6 @@ modificamos usuario y contraseña
 Comenzando con Git
 git show agregado
 Rama Principal
-Botón Presionado
+Rama appBar
+Color fondo
+Tñitulo Curso Git y GitHub
