@@ -9,4 +9,5 @@ git show agregado
 Rama Principal
 Rama appBar
 Color fondo
-Tñitulo Curso Git y GitHub
+Titulo Curso Git y GitHub
+Curso Git y GitHub
