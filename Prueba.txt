@@ -10,5 +10,5 @@ Rama Principal
 Rama appBar
 Color fondo
 Titulo Curso Git y GitHub
-Curso Git y GitHub
+Curso Git y GitHub Aplicación
 Contador empiece en 11 y de 11 en 11
