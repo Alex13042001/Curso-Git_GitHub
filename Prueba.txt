@@ -9,6 +9,6 @@ git show agregado
 Rama Principal
 Rama appBar
 Color fondo
-Titulo Curso Git y GitHub
+Titulo Curso Empieza lo bueno
 Curso Git y GitHub
 Contador empiece en 11 y de 11 en 11
