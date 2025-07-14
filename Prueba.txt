@@ -14,3 +14,4 @@ Curso Git y GitHub Aplicación
 Contador empiece en 1
 Espero que te esté gustando el curso
 Hacemos un buen diseño de la app
+Resolvemos Bug contador
