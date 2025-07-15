@@ -12,4 +12,5 @@ Color fondo rojo
 Titulo Curso Git y GitHub
 Curso Git y GitHub Aplicación
 Contador empiece en 10
+Tamaño del texto normal
 Espero que te esté gustando el curso
