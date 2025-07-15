@@ -11,5 +11,5 @@ Rama appBar
 Color fondo rojo
 Titulo Curso Git y GitHub
 Curso Git y GitHub Aplicación
-Contador empiece en 1
+Contador empiece en 0
 Espero que te esté gustando el curso
