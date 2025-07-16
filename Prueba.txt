@@ -17,3 +17,4 @@ Espero que te esté gustando el curso
 Main 1
 Rama experimental experimento 1
 Rama experimental experimento 2
+Se agregaron los cambios en el texto
