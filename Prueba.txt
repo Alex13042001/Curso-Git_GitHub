@@ -20,3 +20,5 @@ Rama experimental experimento 2
 Se agregaron los cambios en el texto
 Curso creado por Capdesis
 Intructor Jorge
+Incluye solución de dudas
+Con ejemplos reales
