@@ -2,7 +2,7 @@ Hola a todos
 Adios a todos
 Espeor que tengan un excelente dia
 mi nombre es Alejandro
-la fecha es 2024
+la fecha es 2024q
 modificamos usuario y contraseña
 Comenzando con Git
 git show agregado
@@ -20,7 +20,7 @@ Rama experimental experimento 2
 Se agregaron los cambios en el texto
 Curso creado por Capdesis
 Intructor Jorge
-Intructor Jorge
 Incluye solución de dudas
 Con ejemplos reales
 Para todo tipo de programador
+Este commit no esta completo
